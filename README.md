@@ -9,9 +9,9 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me :
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring New Technologies.
-- ⚡ In my free time I play guitar.
+- 💻 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔍 Exploring New Technologies.
+- 🎸 In my free time I play guitar.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
